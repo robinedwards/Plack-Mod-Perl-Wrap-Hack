@@ -1,0 +1,5 @@
+Plack-Mod-Perl-Wrap-Hack  - Wrapping a mod_perl1 application in Plack.
+
+- I recommend using Web::Simple for top level dispatch.
+- Doesn't demonstrate auth/authz handlers as thats pretty simple.
+- This code is just an example and probably won't compile.
